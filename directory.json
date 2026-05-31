@@ -1,1 +1,1 @@
-{"version": 6, "masters": ["https://panel.veilnode.ru"], "min_client_version": "0.0.0", "issued_at": 1780243478, "sig": "2ab394edfb37e645056a77ff302f7297e5ed100a0d625a4d9e1a99b9bfebf653a456399a6822009e8748efc85c83989115dda3bb1984f8947e8efe743f47540b"}
+{"version": 7, "masters": ["https://panel.veilnode.ru"], "min_client_version": "0.0.0", "issued_at": 1780247843, "sig": "6ec72db898f9767b00ea5e61c9c765bb055882d79ac193b35d69f7baad463ba6b04ef463efac49c04f57db26a787443aea47fd488b61807f98132526278d3f08"}
